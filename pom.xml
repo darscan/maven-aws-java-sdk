@@ -14,5 +14,11 @@
       <artifactId>aws-java-sdk</artifactId>
       <version>1.11.952</version>
     </dependency>
+    <!-- Does not exist -->
+    <dependency>
+      <groupId>io.snyk.example</groupId>
+      <artifactId>core-private-lib</artifactId>
+      <version>1.0.5</version>
+    </dependency>
   </dependencies>
 </project>
