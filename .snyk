@@ -7,4 +7,9 @@ ignore:
         reason: None Given
         expires: 2124-12-29T08:08:41.608Z
         created: 2022-11-29T08:08:41.611Z
+  'SNYK-JAVA-COMFASTERXMLJACKSONCORE-1056421':
+    - '*':
+        reason: None Given
+        expires: 2124-12-29T08:08:41.608Z
+        created: 2022-11-29T08:08:41.611Z
 patch: {}
